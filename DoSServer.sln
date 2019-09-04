@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoSServer", "DosServer\DosServer.csproj", "{18A40D3E-922F-441B-A53C-959E9921254B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoSSimpleClientPhase1", "DoSSimpleClientPhase1\DoSSimpleClientPhase1.csproj", "{EA2B42A0-5BDB-404D-A406-ED8B681E292D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoSClient", "DoSClient\DoSClient.csproj", "{12D5A695-8518-4D6A-9CDA-7B2DF0458113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A40D3E-922F-441B-A53C-959E9921254B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A40D3E-922F-441B-A53C-959E9921254B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A40D3E-922F-441B-A53C-959E9921254B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A40D3E-922F-441B-A53C-959E9921254B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2B42A0-5BDB-404D-A406-ED8B681E292D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2B42A0-5BDB-404D-A406-ED8B681E292D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2B42A0-5BDB-404D-A406-ED8B681E292D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2B42A0-5BDB-404D-A406-ED8B681E292D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D5A695-8518-4D6A-9CDA-7B2DF0458113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D5A695-8518-4D6A-9CDA-7B2DF0458113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D5A695-8518-4D6A-9CDA-7B2DF0458113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D5A695-8518-4D6A-9CDA-7B2DF0458113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
